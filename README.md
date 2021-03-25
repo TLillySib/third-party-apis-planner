@@ -1,9 +1,13 @@
 # third-party-apis-planner
-Daily Planner Assignment-Third Party APIs
+<h1>Work-Day-Scheduler</h1>
 
+Daily Planner Assignment-Third Party APIs:
+Creating a simple calendar application that allows a user to save events for each hour of the day.
 
+<h2>Link to working App</h2>
+https://tlillysib.github.io/third-party-apis-planner/
 
-Acceptance Criteria
+<h2>Acceptance Criteria</h2>
 <ul>
 <li>GIVEN I am using a daily planner to create a schedule</li>
 <li>WHEN I open the planner</li>
@@ -18,3 +22,6 @@ Acceptance Criteria
 <li>THEN the text for that event is saved in local storage</li>
 <li>WHEN I refresh the page</li>
 <li>THEN the saved events persist</li>
+
+<h2>Created by</h2>
+Tomeeka Lilly
